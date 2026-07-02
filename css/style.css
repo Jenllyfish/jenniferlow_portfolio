@@ -27,21 +27,21 @@ a:active {
 
 a.bigtext {
   text-decoration: none;
-  color:#2F394D;
+  color:#27333f;
 }
 
 
 .title{
     display: flex;
     justify-content: center;
-    color:#2F394D;
+    color:#27333f;
     font-family: TrashHand;
     padding-right: 1.5rem;
 }
 
 
 .subhead{
-    color:#56666B;
+    color:#566a6b;
     font-family: TrashHand;
 }
 
@@ -78,13 +78,13 @@ h4 {
   margin-top: -1.5rem;}
 h5 { 
   font-family: "Helvetica";
-  color:#2F394D;
+  color:#27333f;
   margin-top: 6rem;
   margin-bottom: -9rem;
   text-align: left;
-  font-size: 4rem; 
+  font-size: 2.5rem; 
   line-height: 1;  
-  letter-spacing: -.4rem; }
+  letter-spacing: -.1rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 .section{
@@ -202,7 +202,7 @@ margin-left: 70px;}
   }
 
   .u-full-width {
-  width: 80%;
+  width: 120%;
   box-sizing: border-box; }
 .u-max-full-width {
   max-width: 80%;
