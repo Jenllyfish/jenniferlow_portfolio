@@ -66,7 +66,7 @@ h3 {
   color: #56666B;
   font-style: normal;
   font-size: 2rem; 
-  line-height: 1.3;  
+  line-height: 2.5rem;  
   letter-spacing: -.1rem; }
 h4 { 
   font-family: 'Helvetica';
@@ -85,7 +85,13 @@ h5 {
   font-size: 2.5rem; 
   line-height: 1;  
   letter-spacing: -.1rem; }
-h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
+h6 {  
+  font-family: "Helvetica"; 
+  color: #56666B;
+  font-style: normal;
+  font-size: 2rem; 
+  line-height: -.25rem;  
+  letter-spacing: -.1rem; }
 
 .section{
   padding-top: 0px;
