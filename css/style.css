@@ -1,11 +1,10 @@
 body {
     background: #fffad4;
     margin-top: 6rem;
-    margin-bottom: 20rem;
+    margin-bottom: 6rem;
     margin-left: 12rem;
     margin-right: 12rem;
 }
-
 
 a:link {
     color: #56666B;
@@ -107,25 +106,6 @@ p{
     font-size: 1rem; line-height: 1.6;  letter-spacing: 0;
 }
 
-.mid-section{
-  padding-top: 0px;
-  padding-bottom:0px;
-
-}
-
-.key {
-  font-weight:bold;
-
-
-}
-.stripe {
- background-color: #fffad4;
-}
-
-
-ul.disc{
-  list-style: disc;
-}
 
 
 .navbar ul li{
@@ -192,7 +172,7 @@ margin-left: -400px;
 margin-top: 80px;}
 
  .four.columns                  
- { width: 30.6666666667%;
+ { width: 30%;
 margin-left: 130px;}
 
 .six.columns
@@ -200,7 +180,7 @@ margin-left: 130px;}
 margin-left: 160px;}
 
  .eight.columns                  
- { width: 40%;
+ { width: 45%;
 margin-top: -50px;
 margin-left: 70px;}
 
