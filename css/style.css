@@ -88,12 +88,11 @@ h5 {
   line-height: 1;  
   letter-spacing: -.1rem; }
 h6 {  
-  font-family: "Helvetica"; 
+  font-family: Condiment, cursive;
+  justify-content: center;
   color: #56666B;
-  font-style: normal;
-  font-size: 2rem; 
-  line-height: -.25rem;  
-  letter-spacing: -.1rem; }
+  font-size: 5rem;  
+  letter-spacing: .75rem; }
 
 p{
     font-family: "Helvetica"; 
@@ -136,13 +135,9 @@ p{
     padding: 1rem;
 }
 
-.img {
-  width: 20%;
-}
+.img-flyers {
+  width: 30%;
+      max-width: 70rem;
+    margin-top: -.5rem;
 
-.art-content {
-    max-width: 70rem;
-    margin-left: 5rem;
-    margin-right: 12rem;
-    margin-top: .5rem;
 }
