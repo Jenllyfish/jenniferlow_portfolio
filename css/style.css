@@ -123,13 +123,12 @@ p{
 
 .flex-container {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 .flex-container-grid {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .flex-item-grid {
@@ -149,4 +148,8 @@ p{
 .logo {
       max-width: 20%;
       max-height: 20%;
+}
+
+.footer {
+  padding: 3rem 3rem;
 }
