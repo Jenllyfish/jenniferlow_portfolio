@@ -102,7 +102,7 @@ p{
     color: #56666B;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    margin-right: 4rem;
+    margin-right: 20rem;
     font-size: 1rem; line-height: 1.6;  letter-spacing: 0;
 }
 
@@ -157,5 +157,5 @@ p{
 }
 
 .footer {
-  padding: 3rem 3rem;
+padding: 3rem 5rem 3rem;
 }
