@@ -1,9 +1,8 @@
 body {
     background: #fffad4;
+    align-items: center;
     margin-top: 6rem;
     margin-bottom: 6rem;
-    margin-left: 8rem;
-    margin-right: 2rem;
 }
 
 .condiment-regular {
@@ -40,7 +39,6 @@ a.bigtext {
     justify-content: center;
     color:#27333f;
     font-family: Condiment, cursive;
-    padding-right: 10rem;
 }
 
 .subhead{
@@ -51,10 +49,9 @@ a.bigtext {
 h1 { 
     margin-top: -1rem;
     margin-bottom: -4rem;
-    margin-left: 12rem;
-    margin-right: 12rem;
     text-align: center;
-    font-size: 9.5rem; line-height: 1.5;  letter-spacing: .5rem;}
+    padding-right: 3.5rem;
+    font-size: 10rem; line-height: 1.5;  letter-spacing: .5rem;}
 h2 { 
     margin-top: 2rem;
     margin-bottom: -8rem;
@@ -68,7 +65,7 @@ h3 {
   color: #56666B;
   font-style: normal;
   font-size: 2rem; 
-  margin-top: 3rem;
+  margin-top: -2rem;
   line-height: 2.5rem;  
   letter-spacing: -.1rem; }
 h4 { 
@@ -122,7 +119,7 @@ p{
   justify-content: center;
   font-family: "Helvetica";
   font-size: 1rem;
-  padding-right: 12rem;
+  padding-right: 2.5rem;
   
 }
 
@@ -134,12 +131,12 @@ p{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-left: 7rem;
+    padding-left: 8rem;
 }
 
 .flex-item-grid {
     flex: 1 1 33%;
-    padding: 1rem;
+    padding-left: 3rem;
 }
 
 .img-flyers {
@@ -164,4 +161,8 @@ p{
 
 .footer {
 padding: 3rem 5rem 3rem;
+}
+
+.desc {
+  margin-left: -7rem;
 }
