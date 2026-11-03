@@ -103,7 +103,10 @@ p{
     margin-top: 1rem;
     margin-bottom: 1rem;
     margin-right: 20rem;
-    font-size: 1rem; line-height: 1.6;  letter-spacing: 0;
+    text-align: justify;
+    font-size: 1rem;
+    line-height: 1.6; 
+    letter-spacing: 0;
 }
 
 .navbar ul li{
@@ -150,6 +153,7 @@ p{
 
 .about{
   max-width: 20rem;
+  margin-top: 1.5rem;
 }
 
 .logo {
